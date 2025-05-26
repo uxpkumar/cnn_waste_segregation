@@ -25,9 +25,9 @@ Develop an effective waste segregation system using CNNs to accurately classify 
   - 20% validation
   - Stratified splitting to maintain class balance
     
-![image](https://github.com/user-attachments/assets/)
+![image](https://github.com/uxpkumar/cnn_waste_segregation/blob/main/output.png)
     
-![image](https://github.com/user-attachments/assets/)
+![image](https://github.com/uxpkumar/cnn_waste_segregation/blob/main/output2.png)
 
 
 ## Model Architecture
